@@ -26,7 +26,7 @@ streamlit run facial_recognition.py
 ## Comment utiliser l'application
 
 * Importez une photo en cliquant sur le bouton "Importer" et en choisissant une image dans votre ordinateur
-* Présentez votre visage à votre webcam ou caméra afin que l'application confime votre identité (vérifiez que votre anti-virus laisse l'accès de la caméra à l'application)
+* Présentez votre visage à votre webcam ou caméra afin que l'application confime votre identité (vérifiez que votre anti-virus autorise l'accès de la caméra à l'application)
 * Cliquez sur le bouton "Confirmer" pour lancer le processus de reconnaissance faciale
 
 Si l'identité est confirmée, un message de succès s'affiche, sinon le flux vidéo est affiché avec un message d'erreur.
